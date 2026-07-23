@@ -106,3 +106,102 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌿 Plant Disease Detection
+
+AI-powered web application that detects plant diseases from leaf images using Deep Learning.
+
+**✨ Features**
+
+- Disease Detection
+- Image Upload
+- Prediction History
+- Admin Dashboard
+
+**🛠 Tech Stack**
+
+`Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** *(Add your GitHub project link)*
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Personalized Learning Recommendation System
+
+A smart platform that recommends learning resources based on student performance.
+
+**✨ Features**
+
+- AI Resource Recommendation
+- Student Dashboard
+- Faculty Dashboard
+- PDF Summarization
+
+**🛠 Tech Stack**
+
+`PHP` `MySQL` `Gemini API` `Bootstrap`
+
+🔗 **Repository:** *(Add your GitHub project link)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚗 Secure Vehicular IoT System
+
+Secure communication system for vehicles using RSA encryption and Android.
+
+**✨ Features**
+
+- Secure Authentication
+- Fuel Prediction
+- Nearby Fuel Stations
+- OBD-II Integration
+
+**🛠 Tech Stack**
+
+`Python` `Android` `RSA` `SQLite`
+
+🔗 **Repository:** *(Add your GitHub project link)*
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤟 Sign Language Translator
+
+Converts sign language gestures into speech using AI and Computer Vision.
+
+**✨ Features**
+
+- Real-time Detection
+- Speech Output
+- Camera Support
+
+**🛠 Tech Stack**
+
+`Python` `MediaPipe` `TensorFlow` `OpenCV`
+
+🔗 **Repository:** *(Add your GitHub project link)*
+
+</td>
+
+</tr>
+
+</table>
