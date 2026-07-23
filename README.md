@@ -161,16 +161,18 @@ An AI-assisted learning platform that recommends personalized study resources ba
 
 ---
 
+---
+
 <div align="center">
 
-## 📂 Explore More Projects
+# 📂 Explore More Projects
 
-Explore all my repositories, experiments, mini-projects, and learning projects on GitHub.
+Explore all my repositories, mini-projects, experiments, and learning projects on GitHub.
 
 <br>
 
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
