@@ -111,6 +111,8 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
 <table>
@@ -120,13 +122,13 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 
 ## 🌿 Plant Disease Detection
 
-AI-powered web application that detects plant diseases from leaf images using Deep Learning.
+A Deep Learning-based web application that identifies plant diseases from leaf images and helps farmers diagnose plant health quickly.
 
 ### ✨ Features
-- Detects multiple plant diseases
-- Image upload and prediction
-- Prediction history
-- User-friendly dashboard
+- Disease Detection using CNN
+- Image Upload & Prediction
+- Prediction History
+- User-friendly Dashboard
 
 ### 🛠️ Tech Stack
 `Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
@@ -139,17 +141,16 @@ AI-powered web application that detects plant diseases from leaf images using De
 
 ## 📚 Personalized Learning Recommendation System
 
-A web application that recommends learning resources based on student performance and interests.
+An AI-assisted learning platform that recommends personalized study resources based on students' performance.
 
 ### ✨ Features
-- Student Dashboard
-- Faculty Dashboard
-- Learning Resource Management
-- AI-based Resource Recommendations
+- Student & Faculty Dashboard
+- Resource Management
+- AI-based Recommendations
 - Search & Filter Resources
 
 ### 🛠️ Tech Stack
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 🔗 **Repository:** https://github.com/YOUR_USERNAME/PLRS
 
@@ -158,6 +159,21 @@ A web application that recommends learning resources based on student performanc
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+## 📂 Explore More Projects
+
+Explore all my repositories, experiments, mini-projects, and learning projects on GitHub.
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 ---
 
 ---
