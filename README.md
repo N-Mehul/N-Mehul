@@ -122,14 +122,13 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 
 AI-powered web application that detects plant diseases from leaf images using Deep Learning.
 
-**✨ Features**
+### ✨ Features
 - Detects multiple plant diseases
 - Image upload and prediction
 - Prediction history
 - User-friendly dashboard
 
-**🛠️ Tech Stack**
-
+### 🛠️ Tech Stack
 `Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
 
 🔗 **Repository:** https://github.com/YOUR_USERNAME/Plant_Disease_Detection
@@ -142,13 +141,17 @@ AI-powered web application that detects plant diseases from leaf images using De
 
 A web application that recommends learning resources based on student performance and interests.
 
-**✨ Features**
-- Student & Faculty Dashboard
-- Learning resource management
-- AI-powered recommendations
-- Search and filtering
+### ✨ Features
+- Student Dashboard
+- Faculty Dashboard
+- Learning Resource Management
+- AI-based Resource Recommendations
+- Search & Filter Resources
 
+### 🛠️ Tech Stack
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
+🔗 **Repository:** https://github.com/YOUR_USERNAME/PLRS
 
 </td>
 
