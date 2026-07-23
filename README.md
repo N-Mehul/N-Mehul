@@ -64,3 +64,45 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 
 </tr>
 </table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css,mysql" />
+</p>
+
+### 🌐 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tensorflow,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws" />
+</p>
+
+### 📊 Data Science & ML
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</p>
