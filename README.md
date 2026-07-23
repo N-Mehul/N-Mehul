@@ -148,54 +148,7 @@ A web application that recommends learning resources based on student performanc
 - AI-powered recommendations
 - Search and filtering
 
-**🛠️ Tech Stack**
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** https://github.com/YOUR_USERNAME/PLRS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📅 Smart Timetable Generator
-
-A web application developed during a Webathon to automatically generate academic timetables.
-
-**✨ Features**
-- Automatic timetable generation
-- Faculty and classroom allocation
-- Conflict-free scheduling
-
-**🛠️ Tech Stack**
-
-`Python` `Flask` `Firebase`
-
-🔗 **Repository:** https://github.com/YOUR_USERNAME/SmartTimetable
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💻 Portfolio & Mini Projects
-
-A collection of web applications and mini projects developed while learning Full Stack Development.
-
-**✨ Includes**
-- HTML/CSS websites
-- JavaScript projects
-- PHP applications
-- College assignments
-
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript` `PHP`
-
-🔗 **Repository:** https://github.com/YOUR_USERNAME
 
 </td>
 
