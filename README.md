@@ -58,7 +58,7 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
 </td>
 
