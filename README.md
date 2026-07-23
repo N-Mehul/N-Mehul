@@ -133,7 +133,7 @@ A Deep Learning-based web application that identifies plant diseases from leaf i
 ### 🛠️ Tech Stack
 `Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** https://github.com/YOUR_USERNAME/Plant_Disease_Detection
+🔗 **Repository:** https://github.com/N-Mehul/Plant_Disease_Detection
 
 </td>
 
@@ -152,7 +152,7 @@ An AI-assisted learning platform that recommends personalized study resources ba
 ### 🛠️ Tech Stack
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** https://github.com/YOUR_USERNAME/PLRS
+🔗 **Repository:** https://github.com/N-Mehul/PLRS
 
 </td>
 
@@ -163,16 +163,27 @@ An AI-assisted learning platform that recommends personalized study resources ba
 
 ---
 
-<div align="center">
+---
 
 # 📂 Explore More Projects
 
-Explore all my repositories, mini-projects, experiments, and learning projects on GitHub.
+<p align="center">
+Explore my other projects, experiments, and learning repositories.
+</p>
 
-<br>
+| Project | Description |
+|---------|-------------|
+| 🔐 **Secure QR App** | Secure QR generation and verification using encryption |
+| 📅 **Smart Timetable Generator** | Automatic timetable generation system |
+| 🌐 **Portfolio Website** | Personal portfolio website |
+| 🤖 **Mini AI Projects** | Machine learning and AI experiments |
+| 💻 **Web Development Projects** | HTML, CSS, JavaScript & PHP projects |
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<div align="center">
+
+<a href="https://github.com/N-Mehul?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
