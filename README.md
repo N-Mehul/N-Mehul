@@ -23,3 +23,44 @@
 </a>
 
 </div> 
+
+---
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+# 👨‍💻 About Me
+
+I'm **Mehul N**, a Computer Science (Data Science) student passionate about building intelligent applications and solving real-world problems through technology.
+
+### 🌱 Currently Learning
+- Machine Learning & Deep Learning
+- AWS Cloud
+- Full Stack Development
+
+### 🚀 Current Focus
+- 🤟 Sign Language to Speech Translator
+- 🌿 Plant Disease Detection using Deep Learning
+- 📚 Personalized Learning Recommendation System
+
+### 💡 Interests
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+- Data Analytics
+
+### 🎯 Goal
+To become a Machine Learning Engineer and build AI solutions that create real-world impact.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
