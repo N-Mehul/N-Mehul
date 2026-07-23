@@ -109,10 +109,11 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -122,17 +123,16 @@ To become a Machine Learning Engineer and build AI solutions that create real-wo
 AI-powered web application that detects plant diseases from leaf images using Deep Learning.
 
 **✨ Features**
+- Detects multiple plant diseases
+- Image upload and prediction
+- Prediction history
+- User-friendly dashboard
 
-- Disease Detection
-- Image Upload
-- Prediction History
-- Admin Dashboard
-
-**🛠 Tech Stack**
+**🛠️ Tech Stack**
 
 `Python` `TensorFlow` `Flask` `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** *(Add your GitHub project link)*
+🔗 **Repository:** https://github.com/YOUR_USERNAME/Plant_Disease_Detection
 
 </td>
 
@@ -140,20 +140,19 @@ AI-powered web application that detects plant diseases from leaf images using De
 
 ## 📚 Personalized Learning Recommendation System
 
-A smart platform that recommends learning resources based on student performance.
+A web application that recommends learning resources based on student performance and interests.
 
 **✨ Features**
+- Student & Faculty Dashboard
+- Learning resource management
+- AI-powered recommendations
+- Search and filtering
 
-- AI Resource Recommendation
-- Student Dashboard
-- Faculty Dashboard
-- PDF Summarization
+**🛠️ Tech Stack**
 
-**🛠 Tech Stack**
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-`PHP` `MySQL` `Gemini API` `Bootstrap`
-
-🔗 **Repository:** *(Add your GitHub project link)*
+🔗 **Repository:** https://github.com/YOUR_USERNAME/PLRS
 
 </td>
 
@@ -163,45 +162,42 @@ A smart platform that recommends learning resources based on student performance
 
 <td width="50%" valign="top">
 
-## 🚗 Secure Vehicular IoT System
+## 📅 Smart Timetable Generator
 
-Secure communication system for vehicles using RSA encryption and Android.
+A web application developed during a Webathon to automatically generate academic timetables.
 
 **✨ Features**
+- Automatic timetable generation
+- Faculty and classroom allocation
+- Conflict-free scheduling
 
-- Secure Authentication
-- Fuel Prediction
-- Nearby Fuel Stations
-- OBD-II Integration
+**🛠️ Tech Stack**
 
-**🛠 Tech Stack**
+`Python` `Flask` `Firebase`
 
-`Python` `Android` `RSA` `SQLite`
-
-🔗 **Repository:** *(Add your GitHub project link)*
+🔗 **Repository:** https://github.com/YOUR_USERNAME/SmartTimetable
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤟 Sign Language Translator
+## 💻 Portfolio & Mini Projects
 
-Converts sign language gestures into speech using AI and Computer Vision.
+A collection of web applications and mini projects developed while learning Full Stack Development.
 
-**✨ Features**
+**✨ Includes**
+- HTML/CSS websites
+- JavaScript projects
+- PHP applications
+- College assignments
 
-- Real-time Detection
-- Speech Output
-- Camera Support
+**🛠️ Tech Stack**
 
-**🛠 Tech Stack**
+`HTML` `CSS` `JavaScript` `PHP`
 
-`Python` `MediaPipe` `TensorFlow` `OpenCV`
-
-🔗 **Repository:** *(Add your GitHub project link)*
+🔗 **Repository:** https://github.com/YOUR_USERNAME
 
 </td>
 
 </tr>
-
 </table>
